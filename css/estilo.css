@@ -1,0 +1,45 @@
+.tel {
+    margin-right: 8px;
+}
+
+.tabla {
+    margin-bottom: 15%;
+}
+
+.veinte {
+    width: 19%;
+}
+
+.diez {
+    width: 9%;
+}
+
+.nombreJ {
+    width: 50%;
+}
+
+.mr2 {
+    margin-right: 1%;
+}
+
+.planilla {
+    margin: 16px;
+}
+
+.botones {
+    cursor: pointer;
+}
+
+.fas{
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.fa-pen:hover{
+    color: #1e8aee;
+}
+
+.fa-trash:hover{
+    color: #ff0101;
+}
